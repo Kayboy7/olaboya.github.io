@@ -35,4 +35,5 @@
 ## Projects 
 - Predicting house prices in Ames, Ohio
 - Star type classification modeling
-- Wine quality EDA 
+- Wine quality EDA
+- Classification of Personal Loan Approval
