@@ -37,3 +37,8 @@
 - Star type classification modeling
 - Wine quality EDA
 - Classification of Personal Loan Approval
+
+![Data_Science_pic](https://github.com/user-attachments/assets/7e1a0ed8-db9d-414a-9e3e-1419298c806a)
+
+
+
