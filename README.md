@@ -35,10 +35,13 @@
 ## Projects 
 - Predicting house prices in Ames, Ohio
     - Objective : Develop a predictive model that estimates the sales price of homes in a test dataset.
+        ![house_price_pic_1](https://github.com/user-attachments/assets/74d061e6-71fb-47bc-89ab-9075558286be)
+
       
 - Wine quality EDA
     - Objective:The goal of this project is to perform exploratory data analysis (EDA) and data wrangling on a wine quality dataset.
-      ![wine_image](https://github.com/user-attachments/assets/ba6c12f3-4639-4c6d-bc7e-f04a89e4cf3c)
+        ![wine_image_1](https://github.com/user-attachments/assets/86caca67-18fd-4344-84a4-e7896a45cf9e)
+
 
 - Classification of Personal Loan Approval
   - Objective: developing a machine learning model to predict whether a customer will accept a personal loan offer based on their financial and demographic information.
