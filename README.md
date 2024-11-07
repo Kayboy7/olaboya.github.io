@@ -40,7 +40,8 @@
       
 - Wine quality EDA
     - Objective:The goal of this project is to perform exploratory data analysis (EDA) and data wrangling on a wine quality dataset.
-        ![wine_image_1](https://github.com/user-attachments/assets/86caca67-18fd-4344-84a4-e7896a45cf9e)
+        ![wine_image_1](https://github.com/user-attachments/assets/b7dcb465-0594-48f4-8c8e-ff90c2c33d88)
+
 
 
 - Classification of Personal Loan Approval
