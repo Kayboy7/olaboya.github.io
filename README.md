@@ -34,10 +34,15 @@
 
 ## Projects 
 - Predicting house prices in Ames, Ohio
-- Star type classification modeling
+    - Objective : Develop a predictive model that estimates the sales price of homes in a test dataset.
+      
 - Wine quality EDA
-- Classification of Personal Loan Approval
+    - Objective:The goal of this project is to perform exploratory data analysis (EDA) and data wrangling on a wine quality dataset.
+      ![wine_image](https://github.com/user-attachments/assets/ba6c12f3-4639-4c6d-bc7e-f04a89e4cf3c)
 
+- Classification of Personal Loan Approval
+  - Objective: developing a machine learning model to predict whether a customer will accept a personal loan offer based on their financial and demographic information.
+    
 ![Data_Science_pic](https://github.com/user-attachments/assets/7e1a0ed8-db9d-414a-9e3e-1419298c806a)
 
 
