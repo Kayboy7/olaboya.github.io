@@ -18,14 +18,14 @@
   - Introduction to Data Science certificate - EDX IBM (_May 2022_)
 
 ## Work experience 
-**Specialist in business planning & IT systems management @ Colour Dome Montreal cabinet services (_Oct 2023 to _Jul 2024_)**
-- Lead the modernization of IT systems and data management processes
-- Advise on business development with data-driven strategies.
-- Oversee the automation of operational workflows to improve efficiency and scalability
+**Business planning & Tax Litigation Manager @ Colour Dome Montreal cabinet services (_Oct 2023 to _Jul 2024_)**
+- Oversaw client tax audits ensuring accurate documents classification and compliance with regulatory requirements
+- Managed clients' tax audits and led tax litigation procedures, successfully filing 95% of cases with accurate documentation and strategic oversight
+- Automated systems to track customer cases, reduce handling time by 25% and improve efficiency
 
 **Adminstrator @ SOBETRI S.A in Republic of Benin (_April 2016 to Oct 2020_)**
-- Creation and management of the Beninese Rice Transformation Company
-- Responsible for recruiting key personnel
+- Led the development of the company by securing funding, modernizing the production process and establishing strategic partnerships
+- Secured $1M+ in funding for rice production by establishing partnerships with international stakeholders and presenting comprehensive business cases
 - Manage operations and lead automation initiatives to streamline production processes
 
 **Manager @ WNU INTERNATIONAL in Republic of Benin (_Nov 2008 to Mar 2026_)**
